@@ -1,0 +1,23 @@
+{
+  "pages":[
+   
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "知乎",
+    "navigationBarTextStyle":"white",
+    "enablePullDownRefresh": true
+    
+  }
+
+  "tabBar": {
+
+    "list": [{
+      "pagePath": "pagePath",
+      "text": "text",
+      "iconPath": "iconPath",
+      "selectedIconPath": "selectedIconPath"
+    }]
+  }
+}
